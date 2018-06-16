@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width: 1017px;
+	background-image:url(Pics/Dice%20Noir.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 997px;
+	border-bottom-left-radius: 0px;
+	border-top-left-radius: 0px;
+		
+}
+
+h1{
+	color: #3C4E54;
+	font-size: 60px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	width: 450px;
+}
+h2 {
+	width: 165px;
+	margin-right: 0px;
+	margin-left: 464px;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(62,35,35,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(62,35,35,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(62,35,35,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(62,35,35,1.00) 100%);
+	background-size: 32px 29px;
+	-webkit-box-shadow: 18px 6px 23px;
+	box-shadow: 18px 6px 23px;
+	text-shadow: 0px 0px 6px hsla(142,35%,43%,1.00);
+}
+h3  {
+	text-align: center;
+	margin-right: -55px;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(163,220,207,1.00) 0%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(163,220,207,1.00) 0%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(163,220,207,1.00) 0%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(163,220,207,1.00) 0%);
+}
+#videos {
+	height: 369px;
+	width: 1029px;
+	margin-right: 6px;
+	background-image: url(url);
+	background-color: hsla(0,0%,0%,1.00);
+}
+
+
+
+
+nav{
+	background-color: #000000;
+	width: 615px;
+	margin-bottom: auto;
+	margin-top: -34px;
+	height: 50px;
+	margin-right: -21px;
+	margin-left: 400px;
+	opacity: 0.59;
+	} 
+h4 {
+	width: 198px;
+	text-align: center;
+	margin-left: 80px;
+	background-repeat: no-repeat;
+	background-size: 384px auto;
+	background-position: 31% 8%;
+}
+#ScrambleSignal {
+	width: 325px;
+	margin-right: 44px;
+	margin-left: 10px;
+	height: 269px;
+	background-image: url(Pics/1449710777234.jpg);
+	border: thick groove hsla(117,100%,70%,0.33);
+	margin-top: 6px;
+	overflow-x: scroll;
+}
+
+
+
+
+ul{
+	color: #000000;
+	text-align: justify;
+}
+
+li{
+	display: inline;
+	float: right;
+	margin-bottom: 38px;
+	margin-right: 38px;
+	margin-top: 4px;
+	margin-left: 7px;
+}
+
+a{
+	color: #000000;
+	width: 100px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	background-color: #B4B4B4;
+	margin-left: -2px;
+}

@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width: 1017px;
+	background-image:url(Pics/Dice%20Noir.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 997px;
+	border-bottom-left-radius: 0px;
+	border-top-left-radius: 0px;
+		
+}
+
+h1{
+	color: #3C4E54;
+	font-size: 60px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	width: 450px;
+}
+
+nav{
+	background-color: #000000;
+	width: 615px;
+	margin-bottom: auto;
+	margin-top: -34px;
+	height: 50px;
+	margin-right: -21px;
+	margin-left: 400px;
+	opacity: 0.59;
+	} 
+h4 {
+	width: 198px;
+	text-align: center;
+	margin-left: 80px;
+	background-repeat: no-repeat;
+	background-size: 384px auto;
+	background-position: 31% 8%;
+}
+#ScrambleSignal {
+	width: 325px;
+	margin-right: 44px;
+	margin-left: 10px;
+	height: 269px;
+	background-image: url(Pics/1449710777234.jpg);
+	border: thick groove hsla(117,100%,70%,0.33);
+	margin-top: 6px;
+	overflow-x: scroll;
+}
+
+
+
+
+ul{
+	color: #000000;
+	text-align: justify;
+}
+
+li{
+	display: inline;
+	float: right;
+	margin-bottom: 38px;
+	margin-right: 38px;
+	margin-top: 4px;
+	margin-left: 7px;
+}
+
+a{
+	color: #000000;
+	width: 100px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	background-color: #B4B4B4;
+	margin-left: -2px;
+}#stickshift {
+	width: 300px;
+	height: 300px;
+	background-image: url(Pics/Stick_Shift_Logo_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 46% 69%;
+	overflow-x: scroll;
+	margin-top: 59px;
+	margin-left: 13px;
+	border: 15px groove #111111;
+	-webkit-box-shadow: inset -12px -7px 17px 17px #878787;
+	box-shadow: inset -12px -7px 17px 17px #878787;
+}
+h3 {
+	text-align: center;
+	font-size: xx-large;
+	font-weight: bold;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	background-image: url(Pics/Beyond%20Sensation%20A.jpg);
+	background-position: 0% 9%;
+	color: #E5965B;
+	font-style: normal;
+	font-variant: normal;
+	text-decoration: underline;
+	text-shadow: -2px 1px #A57561;
+	border-style: groove;
+	border-width: thick;
+	-webkit-box-shadow: inset 1px 1px 24px 12px;
+	box-shadow: inset 1px 1px 24px 12px;
+}
+
+audio {
+	width: 201px;
+	margin-left: 93px;
+	margin-bottom: 4px;
+	margin-top: -64px;
+	visibility: inherit;
+	text-shadow: 15px 48px 1px #9F0C0C;
+	-webkit-box-shadow: 0px 0px #8A1F20;
+	box-shadow: 0px 0px #8A1F20;
+	opacity: 0.75;
+}
+strong {
+	padding-right: 10px;
+	padding-left: 10px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: oblique;
+	font-variant: normal;
+	font-weight: bolder;
+	font-size: large;
+	text-shadow: 0px 4px 10px #FFFFFF;
+	background-color: #FFFFFF;
+	-webkit-box-shadow: inset 0px 0px 36px 4px;
+	box-shadow: inset 0px 0px 36px 4px;
+}
+#theater {
+	width: 300px;
+	height: 300px;
+	margin-right: 24px;
+	margin-left: 346px;
+	margin-top: -616px;
+	background-image: url(Pics/1449764314367.jpg);
+	background-size: contain;
+	-webkit-box-shadow: inset 0px 0px 13px 18px hsla(58,85%,31%,1.00);
+	box-shadow: inset 0px 0px 13px 18px hsla(58,85%,31%,1.00);
+	border: 16px groove hsla(54,96%,73%,1.00);
+	overflow-x: scroll;
+}
+h5 {
+	text-align: center;
+	font-size: 26px;
+	color: hsla(36,24%,42%,1.00);
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-weight: bold;
+	text-indent: 2px;
+	text-shadow: 2px -1px 8px;
+	background-size: 112px 33px;
+	background-clip: padding-box;
+	-webkit-box-shadow: inset 0px 6px 111px;
+	box-shadow: inset 0px 6px 111px;
+	background-color: hsla(53,93%,89%,1.00);
+}
+
+#copyright{
+	margin-top: 332px;
+	margin-left: 518px;
+	margin-bottom: 479px;
+	clear: both;
+}
+#Iam {
+	width: 308px;
+	height: 259px;
+	margin-right: 0px;
+	margin-left: 346px;
+	margin-top: 4px;
+	background-image: url(1449710777357.jpg);
+	border: 11px groove hsla(27,73%,32%,1.00);
+	overflow-x: scroll;
+	background-size: 295px auto;
+	background-repeat: no-repeat;
+}
+strong {
+	opacity: 0.72;
+}
+
+
+h6 {
+	text-align: center;
+	height: 22px;
+	margin-top: -2px;
+}
